@@ -2,6 +2,9 @@
 
 A Chrome extension for enhancing and automating ChatChat.gg chat interactions.
 
+Download:
+https://github.com/33OPX/ChitChat-Enhancer/releases/tag/v3.0
+
 ## Features
 
 ### Core Functionality
