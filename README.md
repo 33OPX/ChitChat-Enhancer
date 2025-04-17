@@ -67,10 +67,6 @@ The extension adds a compact control panel to the ChatChat.gg chat interface wit
 - Cross-device state persistence
 - Configurable through `firebase-config.js`
 
-## Contributing
-
-Feel free to submit issues, fork the repository, and create pull requests for any improvements.
-
 ## License
 
 This project is open source and available under the MIT License.
